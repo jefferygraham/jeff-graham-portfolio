@@ -4,9 +4,9 @@
     "occupation": "Full Stack Developer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio": "My name is Jeff Graham, and I’m a full stack web developer with Revature. I have experience building full-stack web applications using with React/Redux on the front end, using Express.js on the backend for routing, and using a NoSQL database program, such as DynamoDB, for data storage. ",
+    "contactmessage": "Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!",
+    "email": "jeffery.lemar.graham@gmail.com",
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
@@ -14,8 +14,8 @@
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.jefferylgraham.com",
+    "resumedownload": "https://drive.google.com/file/d/1xZHd4PXgCORYfHBYChQPHtmpdw9q9DcY/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -38,40 +38,40 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "NuCamp Coding Bootcamp",
+        "degree": "Full Stack Web & Mobile Development",
+        "graduated": "December 2020",
+        "description": "Developed full-stack web applications and built user-friendly websites using React/Redux and used MongoDb for data storage."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Revature",
+        "title": "Software Engineer",
+        "years": "December 2020 - Present",
+        "description": "Executes full life cycle software development; Documents and maintains software functionality; Writes well designed, testable, efficient code; Integrates software components into a fully functional software system; Develops software verification plans and quality assurance procedures; Tailors and deploys software tools, processes and metrics; Serve as a subject matter expert; Complies with project plans and industry standards."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "TypeScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -79,11 +79,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
